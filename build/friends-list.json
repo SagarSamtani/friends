@@ -1,0 +1,24 @@
+{
+    "list": [
+        {
+            "name": "Akshay Kumar",
+            "fav": true
+        },
+        {
+            "name": "Ranveer Singh",
+            "fav": true
+        },
+        {
+            "name": "Ranbir Kapoor",
+            "fav": false
+        },
+        {
+            "name": "Shahid Kapoor",
+            "fav": true
+        },
+        {
+            "name": "Vicky Kaushal",
+            "fav": false
+        }
+    ]
+}
