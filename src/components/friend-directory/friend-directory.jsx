@@ -54,7 +54,7 @@ const FriendDirectory = () => {
   };
 
   const fetchList = () => {
-    fetch("/friends-list.json")
+    fetch("friends-list.json")
       .then((response) => response.json())
       .then((result) => {
         setTotalList(result.list);
